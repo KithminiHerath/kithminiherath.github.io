@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kithmini Herath"
   avatar           : "Kithmini.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Post Baccalaureate Fellow at Harvard"
   location         : "Cambridge, MA"
   employer         :
   pubmed           : 
@@ -210,14 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  # - scope:
-  #     path: ""
-  #     type: teaching
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
