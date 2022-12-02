@@ -5,16 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my <u><a href="{{author.googlescholar}}">Google Scholar profile</a>.</u>
+You can also find my articles on my <a href="https://scholar.google.com/citations?user=JAq7DWcAAAAJ&hl=en">Google Scholar profile</a>.
 
 # 2022
 
 <div>
-<strong>Differentiable Microscopy Designs an All Optical Quantitative Phase Microscope.</strong> Kithmini Herath, Udith Haputhanthri, Ramith Hettiarachchi, Hasindu Kariyawasam, Raja N. Ahmad, Azeem Ahmad, Balpreet S. Ahluwalia, Chamira U. S. Edussooriya, Dushan Wadduwage. arXiv, 2022.
-
-<p>
-<a href="https://arxiv.org/abs/2203.14944">Link</a>
-</p>
+<strong>Differentiable Microscopy Designs an All Optical Quantitative Phase Microscope.</strong><br><b>Kithmini Herath</b>, Udith Haputhanthri, Ramith Hettiarachchi, Hasindu Kariyawasam, Raja N. Ahmad, Azeem Ahmad, Balpreet S. Ahluwalia, Chamira U. S. Edussooriya, Dushan Wadduwage. arXiv, 2022. [<a href="https://arxiv.org/abs/2203.14944">Link</a>]
 </div>
 <hr>
 
