@@ -10,7 +10,29 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 # 2022
 
 <div>
+<strong><a href="https://arxiv.org/pdf/2207.00164.pdf">Deep Optical Coding Design in Computational Imaging.</a></strong><br>Henry Arguello, Jorge Bacca, Hasindu Kariyawasam, Edwin Vargas, Miguel Marquez, Ramith Hettiarachchi, Hans Garcia, <b>Kithmini Herath</b>, Udith Haputhanthri, Balpreet S. Ahluwalia, Peter So, Dushan N. Wadduwage, Chamira U. S. Edussooriya. To appear in IEEE Signal Processing Magazine Special Issue on Physics-Driven Machine Learning for Computational Imaging Jan 2023.
+</div>
+<hr>
+
+<div>
 <strong>Differentiable Microscopy Designs an All Optical Quantitative Phase Microscope.</strong><br><b>Kithmini Herath</b>, Udith Haputhanthri, Ramith Hettiarachchi, Hasindu Kariyawasam, Raja N. Ahmad, Azeem Ahmad, Balpreet S. Ahluwalia, Chamira U. S. Edussooriya, Dushan Wadduwage. arXiv, 2022. [<a href="https://arxiv.org/abs/2203.14944">Link</a>]
+</div>
+<hr>
+
+<div>
+<strong>From Hours to Seconds: Towards 100x Faster Quantitative Phase Imaging via Differentiable Microscopy</strong><br>Udith Haputhanthri, <b>Kithmini Herath</b>, Ramith Hettiarachchi, Hasindu Kariyawasam, Azeem Ahmad, Balpreet S. Ahluwalia, Chamira U. S. Edussooriya, Dushan N. Wadduwage. arXiv, 2022. [<a href="https://arxiv.org/pdf/2205.11521.pdf">Link</a>]
+</div>
+<hr>
+
+<div>
+<strong>MyoSpring: 3D Printing Mechanomyographic Sensors for Subtle Finger Gesture Recognition</strong><br>Stephen Shiao-ru Lin, Nisal M. Gamage, <b>Kithmini Herath</b>, Anusha Withana. Sixteenth International Conference on Tangible, Embedded, and Embodied Interaction (TEI), 2022. [<a href="https://doi.org/10.1145/3490149.3501321">Link</a>]
+</div>
+<hr>
+
+# 2021
+
+<div>
+<strong>A Novel Transfer Learning-Based Approach for Screening Pre-existing Heart Diseases Using Synchronized ECG Signals and Heart Sounds</strong><br>Ramith Hettiarachchi, Udith Haputhanthri, <b>Kithmini Herath</b>, Hasindu Kariyawasam, Shehan Munasinghe, Kithmin Wickramasinghe, Duminda Samarasinghe, Anjula De Silva, Chamira U. S. Edussooriya. IEEE International Symposium on Circuits and Systems (ISCAS), 2021. [<a href="https://ieeexplore.ieee.org/document/9401093">Link</a>]
 </div>
 <hr>
 
