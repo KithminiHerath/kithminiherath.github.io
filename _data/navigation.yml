@@ -13,7 +13,7 @@ main:
   #   url: /portfolio/
         
   - title: "Blog Posts"
-    url: /posts/
+    url: https://medium.com/@kimiHerath
     
   - title: "CV"
     url: https://kithminiherath.github.io/files/CV_Kithmini.pdf
