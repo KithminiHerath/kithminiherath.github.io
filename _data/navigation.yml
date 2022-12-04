@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: https://kithminiherath.github.io/files/CV_Kithmini.pdf
     
   # - title: "Guide"
   #   url: /markdown/
