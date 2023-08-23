@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at the Center for Computational Biology at the University of California, Berkeley.
+I am a first year PhD student at the [Center for Computational Biology](https://ccb.berkeley.edu) at the University of California, Berkeley.
 
 I completed my BSc (Hons) in Electronic and Telecommunication Engineering at the University of Moratuwa, Sri Lanka. I have previously interned at the University of Sydney, Australia as a Visiting Student Researcher advised by [Dr. Anusha Withana](https://scholar.google.com.sg/citations?user=y17ckyIAAAAJ&hl=en). During this internship, I engaged in research in applying machine learning (ML) to address a problem in Human-Computer Interaction, specifically on personalizing gesture prediction.
 
