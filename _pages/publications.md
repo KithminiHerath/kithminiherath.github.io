@@ -7,6 +7,13 @@ author_profile: true
 
 <!-- You can also find my articles on my <a href="https://scholar.google.com/citations?user=JAq7DWcAAAAJ&hl=en">Google Scholar profile</a>. -->
 
+# 2025
+
+<div>
+<strong><a href="https://doi.org/10.1101/2025.05.09.653096">SoftAlign: End-to-end protein structures alignment.</a></strong><br>Jeanne Trinquier, Samantha Petti, Sukhwan Park, <b>Kithmini Herath</b>, Michel van Kempen, Shihao Feng, Johannes Söding, Martin Steinegger, Sergey Ovchinnikov. bioRxiv, 2025.
+</div>
+<hr>
+
 # 2024
 
 <div>
